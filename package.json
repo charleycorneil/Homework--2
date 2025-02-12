@@ -1,0 +1,16 @@
+{
+  "name": "charley-homework-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "scaffold": "./Scaffold/index.js"
+  },
+  "scripts": {
+    "fs": "node fs",
+    "path": "node path"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
